@@ -1,4 +1,4 @@
-/*
+/* 
 * littlelink V1
 * https://littlelink.com
 * Free to use under the MIT license.
@@ -90,6 +90,7 @@ html {
   color-scheme: dark;
 }
 body {
+  background-color: #191919; /* Dark background for dark mode */
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;

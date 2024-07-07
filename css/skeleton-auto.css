@@ -140,6 +140,7 @@ a:focus {
   a {
     color: #4899F7;
 }
+
 a:hover {
   color: #7AB8FF;
 }
@@ -218,8 +219,8 @@ hr {
 50% (default): True circle
 */
 .avatar {
-  width: 128px;
-  height: 128px;
+  width: 138px;
+  height: 168px;
   object-fit: cover;
   background-position: center;
   border-radius: 50%;
