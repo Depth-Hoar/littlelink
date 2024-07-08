@@ -228,11 +228,11 @@ hr {
   border-radius: 50%;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .avatar {
     content: url('logo-dark.png');
   }
-}
+} */
 
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
 @font-face {
